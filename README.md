@@ -1,2 +1,1 @@
 # tako
-* hello @dongri
